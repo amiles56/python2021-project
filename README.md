@@ -11,5 +11,6 @@ Proposed Stretch Features:
 1. Use pandas, matplotlib, and/or numpy to perform a data analysis project. Ingest 2 or more pieces of data, analyze that data in some manner, and display a new result to a graph, chart, or other display
 
 Instructions for Running Project:
-1. Requirements will be provided in requirements.txt file for easy installation using pip.
-2. Code will me run and managed in a jupyter notebook
+1. Requirements will be provided in requirements.txt file for easy installation using pip. (pip install -r requirements.txt)
+
+2. Code will me run and managed in the jupyter notebook called "prodNotebook.ipynb"
