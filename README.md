@@ -13,4 +13,4 @@ Proposed Stretch Features:
 Instructions for Running Project:
 1. Requirements will be provided in requirements.txt file for easy installation using pip. (pip install -r requirements.txt)
 
-2. Code will me run and managed in the jupyter notebook called "prodNotebook.ipynb"
+2. Code will be run and managed in the jupyter notebook called "prodNotebook.ipynb"
