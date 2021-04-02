@@ -1,7 +1,7 @@
 # python2021-project
 
 Project Description:
-Data will be sourced from Coalition for the Homeless (Louisville)'s Point in Time Homeless Count and Annual Census of the Homeless in Metro Louisville.  Application will read in data from a csv or pdf into a pandas dataframe for analysis and visualization.  Data will be analyzed to the determine the relative demographic makeup of Louisville Metro Homeless population and how it has changes year-to-year.  Data Visualization will be accomplished using the matplotlib python library.
+Data will be sourced from Coalition for the Homeless (Louisville)'s Point in Time Homeless Count and Annual Census of the Homeless in Metro Louisville.  Application will read in data from a csv into a pandas dataframe for analysis and visualization.  Data will be analyzed to the determine the relative demographic makeup of Louisville Metro Homeless population and how it has changes year-to-year.  Data Visualization will be accomplished using the matplotlib python library.
 
 Proposed Project Requirements:
 1. Read data from an external file, such as text, JSON, CSV, etc and use that data in your application
